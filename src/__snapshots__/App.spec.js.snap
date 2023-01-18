@@ -1,0 +1,60 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`The <App/> component should renders <App/> snapshot 1`] = `
+Array [
+  <header
+    aria-label="header"
+    className="sc-pyfCe fCpyhd"
+  >
+    <div
+      className="sc-jrcTuL kSYenU"
+    >
+      <button
+        className="sc-kDvujY ktIIaV"
+        data-testid="toggle-theme"
+        onClick={[Function]}
+        role="button"
+      >
+        <span
+          data-testid="opus-theme"
+        >
+          Opus Theme
+        </span>
+      </button>
+    </div>
+  </header>,
+  <main>
+    <div
+      className="sc-bcXHqe lkXRJF"
+    >
+      <button
+        aria-labelledby="Fancy NewDay Credit card?"
+        className="sc-gswNZR dvMuuv"
+        data-testid="button-confirmation"
+        onClick={[Function]}
+        role="button"
+      >
+        Fancy NewDay Credit card?
+      </button>
+      <button
+        aria-labelledby="Join Newsletter"
+        className="sc-gswNZR dvMuuv"
+        data-testid="button-subscribe"
+        onClick={[Function]}
+        role="button"
+      >
+        Join Newsletter
+      </button>
+      <button
+        aria-labelledby="Internal Error"
+        className="sc-gswNZR dvMuuv"
+        data-testid="button-error"
+        onClick={[Function]}
+        role="button"
+      >
+        Internal Error
+      </button>
+    </div>
+  </main>,
+]
+`;
